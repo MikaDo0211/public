@@ -1,0 +1,457 @@
+{
+  "content": {
+    "select_language": {
+      "select_your_language": "Select Your Language"
+    },
+    "scan_device": {
+      "title": "Scan your device",
+      "list_derive": {
+        "0": {
+          "title": "The device is still not Jailbreak.",
+          "sub_title": "Analyze your device."
+        },
+        "1": {
+          "title": "Guarantees Performance.",
+          "sub_title": "Analyze the hardware compatibility."
+        },
+        "2": {
+          "title": "System Configuration Standard.",
+          "sub_title": "Look for high risky modifications."
+        }
+      },
+      "is_not_safe": {
+        "title": "Your device is not safe"
+      },
+      "is_ineligible": {
+        "title": "Your device is ineligible"
+      }
+    },
+    "intro": {
+      "0": {
+        "title": "Metanode Browser <br/> connecting to Web3",
+        "description": "It calls Web3 Space, which is a web browser with Web3 connectivity that allows users to use blockchain-based applications in a secure, private environment."
+      },
+      "1": {
+        "title": "Execute Smart contract <br/> on Your Smart Phone",
+        "description": "You now can deploy, execute their smart contracts, and decentralized applications right on your mobile device."
+      },
+      "2": {
+        "title": "Prevent Tracking <br/> from Website",
+        "description": "Invasive Ad are prevented, as are cross-site trackers, cookies, and fingerprinting. Malware and phishing are also protected. Network routing is anonymized."
+      },
+      "3": {
+        "title": "Only you have access <br/> to your own data.",
+        "description": "Metanode's technology allows users full control over their data, such as backup and restoration, using a seed phrase as a security key for data."
+      },
+      "4": {
+        "title": "Metanode <br/> Rewards Program",
+        "description": "You visit websites that participate in the Metanode Rewards program, you will be able to receive MTD bonus point rewards from sponsors."
+      }
+    },
+    "import_wallet": {
+      "import_an_existing_wallet": "Import An Existing Wallet",
+      "how_do_you": "How do you want to import your wallet?",
+      "new_to_metanode": "New to Metanode? ",
+      "create_new_wallet": "Create New Wallet",
+      "wallet_without_data": "Wallet without data",
+      "seed_phrase_lasted_node": "Seed Phrase + Lasted Node",
+      "backup_file_seed_phrase": "Backup File + Seed Phrase",
+      "decrypt_backup_file": "Decrypt Backup File",
+      "input_with_qr_code": "Input with QR Code",
+      "title_seed_phrases": "Enter a 24 seed phrases",
+      "title_last_node": "Last node connected (Optional)",
+      "get_qr_code_from": "Get QR Code from",
+      "camera": "Camera",
+      "photo_library": "Photo library"
+    },
+    "create_wallet": {
+      "create_new_wallet": "Create New Wallet",
+      "auto_create": "Auto-create a new wallet",
+      "how_do_you": "How do you want to create seed phase?",
+      "auto_gen_seed_phrase": "Auto Gen Seed Phrase",
+      "seed_phrases_will_be_generated_automatically": "Seed phrases will be generated automatically",
+      "custom_seed_phrase": "Custom Seed Phrase",
+      "create_your_own_Seed_Phrases": "Create your own Seed Phrases",
+      "join_us_before": "Join us before? ",
+      "import_an_existing_wallet": "Import An Existing Wallet",
+      "seed_phrase": "Seed Phrase",
+      "copy_or_capture": "Select copy or capture screen shot seed phrase to save backup wallet!",
+      "data_check_box": {
+        "content_1": "This automatic wallet generation feature is not automatically included in the wallet backup file. You can use customization to create wallets with automatic backups."
+      },
+      "copy_seed_pharse": "Copy seed pharse",
+      "capture_screenshot": "Capture screenshot",
+      "custom_seed_phrase_az": "Custom Seed Phrase? (a-z, 0-9)",
+      "how_does_this_work?": "How does this work?",
+      "metanode_wallet_address": "Metanode Wallet Address",
+      "qr_code": "QR Code"
+    },
+    "create_account": {
+      "create_an_account": "Create an account",
+      "your_full_name": "Your Full Name",
+      "username": "Username",
+      "type_your_full_name_here": "Type your full name here",
+      "type_username_here": "Type username here"
+    },
+    "edit_profile": {
+      "choose_avatar": "Choose avatar",
+      "background": "Background"
+    },
+    "connect_node": {
+      "connect_to_a_node": "Connect to a node",
+      "l_node": "L-Node",
+      "custom": "Custom",
+      "choose_a_node": "Choose a node",
+      "recent_nodes": "Recent Nodes",
+      "ip": "IP",
+      "domain": "Domain",
+      "ip_address": "IP Address",
+      "port": "Port",
+      "type": "Type ...",
+      "meta_node": "MetaNode",
+      "connecting": "connecting...",
+      "connect_error": "Connect error",
+      "success": "Success",
+      "speed": "Speed",
+      "entry_fee": "Entry fee",
+      "fee_value": "Fee/value",
+      "minium_fee": "Minium fee",
+      "minium_weight": "Minium weight",
+      "free": "Free"
+    },
+    "choose_wallet": {
+      "choose_a_wallet": "Choose a Wallet",
+      "choose_your_wallet": "Choose your wallet",
+      "or_enter_the_address": "Or enter the address",
+      "type_or_paste_wallet_address": "Type or paste wallet address",
+      "choose_a_wallet_that_fits_your_needs": "Choose a wallet that fits your needs.",
+      "what_is_offline_mode": "What is offline mode?",
+      "no_need_wifi_3G_4G_5G": "No need Wifi, 3G/4G/5G",
+      "transaction_with_smart_contract_process": "Transaction with Smart Contract process",
+      "use_sms_to_send_transaction_&_check_balance": "Use SMS to Send transaction & Check balance",
+      "error_connecting_to_node_please_reconnect_or_switch_to_offline_mode": "Error connecting to node. Please reconnect or switch to offline mode.",
+      "do_you_want_to_turn_on_offline_mode": "Do you want to turn on Offline Mode?"
+    },
+    "move_wallet": {
+      "move_sort": " Move the wallet to sort",
+      "des": "Wallets will be arranged in order from top to bottom"
+    },
+    "setting_contact": {
+      "profile": "Profile",
+      "number_of_wallets": "Number of Wallets",
+      "wallets": "Wallets"
+    },
+    "edit_group": {
+      "group": "Group",
+      "rename": "Rename",
+      "move": "Move",
+      "delete_group": "Delete Group",
+      "content_page_move_group": {
+        "0": "Move the group to sort.",
+        "1": " Group from top to bottom will be arranged in Z shape on the screen."
+      },
+      "create_add_to_group": "Create/Add to Group",
+      "choose_d_app_smart_contract": "Choose D-App/Smart Contract",
+      "group_name": "Group name",
+      "enter_group_name": "Enter group name",
+      "choose_a_group": "Choose a Group",
+      "automation_create_group": "Automation Create Group"
+    },
+    "smart_contract": {
+      "smart_contract": "Smart Contract",
+      "deploy_from_file": "Deploy from File",
+      "deploy_from_link": "Deploy from link",
+      "deploy": "Deploy",
+      "deploy_your_smart_contract": "Deploy your smart contract",
+      "use_template": "Use template",
+      "use_my_file": "Use my file",
+      "step_1": "Step 1: Choose your file",
+      "description_1": "Choose file zip or gzip",
+      "step_2": "Step 2: Check your item",
+      "description_2": "Recheck your all item",
+      "step_3": "Step 3: Send to blockchain",
+      "description_3": "Send with your request",
+      "choose_your_file": "Choose your file",
+      "please_waiting_a_minutes_we_processing_for_your_data": "Please waiting a minutes, we processing for your data",
+      "zipping": "Zipping...",
+      "deploy_smart_contract": "Deploy Smart Contract",
+      "decentralized_application": "Decentralized Application",
+      "fill_in_the_link": "Fill in the link",
+      "enter_your_url": "Enter your url"
+    },
+    "d_app": {
+      "d_app": "D-App",
+      "install_from_file": "Install from File",
+      "install_from_link": "Install from link",
+      "install_d_app": "Install D-App",
+      "create_your_d_app": "Create your D-App",
+      "step_1": "Step 1: Choose your file",
+      "description_1": "Choose file zip or gzip",
+      "step_2": "Step 2: Check your item",
+      "description_2": "Recheck your all item",
+      "step_3": "Step 3: Send to blockchain",
+      "description_3": "Send with your request",
+      "move": "Move",
+      "delete": "Delete"
+    },
+    "home_screen": {
+      "home_screen": "Home Screen",
+      "set_default_home_screen": "Set Default HomeScreen",
+      "wallet_page": "Wallet Page",
+      "d_app_page": "D-App Page",
+      "group_page": "Group Page"
+    },
+    "wallpaper": {
+      "wallpaper": "Wallpaper",
+      "album": "Album",
+      "collection": "Collection",
+      "color": "Color",
+      "text_color": "Text color",
+      "image": "Image",
+      "vivid_gradient": "Vivid Gradient",
+      "gradient": "Gradient"
+    },
+    "widget": {
+      "widget": "Widget",
+      "add_widget": "Add Widget",
+      "shortcut": "Shortcut",
+      "automation": "Automation"
+    },
+    "wallet": {
+      "wallet": "Wallet",
+      "detail_wallet": "Detail Wallet",
+      "default": "Default",
+      "sending_coin": "Sending coin",
+      "message": "Message",
+      "tips_for_l_node": "Tips for L-Node",
+      "choose_wallet": "Choose Wallet",
+      "checking": "CHECKING...",
+      "type_wallet_address_or_username_or_name": "Type wallet address or username or name",
+      "back": "Back",
+      "you_have_a_transaction_pending_for_your_confirmation": "You have a transaction pending for your confirmation",
+      "transaction_details": "Transaction details",
+      "send_to": "Send to",
+      "amount_of_coin": "Amount of coin",
+      "Fee": "Fee",
+      "Tips": "Tips",
+      "Total": "Total",
+      "i_confirm_that_i_have_checked_the_receiver_information_and_the_amount_of_coins_are_correct": "I confirm that I have checked the receiver information and the amount of coins are correct.",
+      "coin_sending": "Coin sending",
+      "transaction_hash": "Transaction hash",
+      "status": "Status",
+      "source": "Source",
+      "wallet_address": "Wallet address",
+      "receiver": "Receiver",
+      "username": "Username",
+      "receive_coin": "Receive coin",
+      "scan_qr_code_to_receive_payment": "Scan QR code to receive payment",
+      "show_avatar": "Show avatar"
+    },
+    "report": {
+      "report": "Report",
+      "no_transactions_yet": "No transactions yet!",
+      "report_all_dapps": "Report - All DApps",
+      "filter": "Filter",
+      "transactions": "Transactions"
+    },
+    "setting": {
+      "network_node": "Network & Node",
+      "wallet": "Wallet",
+      "notication": "Notication",
+      "general": "General",
+      "security": "Security",
+      "backup_restore": "Backup & Restore",
+      "niner": "Miner",
+      "system_update": "System Update",
+      "offline_mode": "Offline Mode",
+      "setting": "Setting"
+    },
+    "backup_and_restore": {
+      "backup_and_restore": "Backup & Restore"
+    },
+    "network_node": {
+      "network": "Network",
+      "connection": "Connection",
+      "node": "Node",
+      "receive_notifications_from_nodes": "Receive notifications from nodes",
+      "receive_transaction_status": "Receive transaction status",
+      "notification": "Notification"
+    },
+    "setting_security": {
+      "security": "Security",
+      "content": "Allow you to quick access your wallet by a quick glance at your device. It is also used as a additional security checking for quick approval of transactions.",
+      "change_pincode": "Change Pincode",
+      "pincode": "Pincode",
+      "FaceID": "FaceID",
+      "TouchID": "TouchID",
+      "watch_approve": "Watch Approve",
+      "offline_content": "Offline mode uses SMS to send messages. Please grant permission to use!"
+    },
+    "setting_general": {
+      "general": "General",
+      "home_screen": "Home Screen",
+      "wallet_page": "Wallet Page",
+      "d_app_page": "D-App Page",
+      "group_page": "Group Page"
+    },
+    "setting_notication": {
+      "face_id": "FaceID",
+      "allow_notifications_while_using_metanode_world": "Allow notifications while using Metanode World",
+      "notication": "Notication",
+      "system": "System",
+      "transaction": "Transaction",
+      "decentrialized_applications": "Decentrialized Applications",
+      "smart_contract": "Smart Contract",
+      "notica_for": "NOTICE FOR",
+      "focus": "focus",
+      "add_focus": "Add Focus",
+      "content_bottom": "Focus lets you customize your devices and silence calls and notifications.",
+      "location": "Location",
+      "time": "Time",
+      "people": "People",
+      "allow_notifications": "ALLOW notifications",
+      "content_allow_notifications": "Notifications from selected location, time, people and apps will be allowed, all others will be silenced",
+      "personal": "Personal",
+      "work": "Work",
+      "sleep": "Sleep",
+      "add_address": "+Add Address",
+      "all": "All",
+      "dapp": "DApp",
+      "mask_all_as_read": "Mask all as read",
+      "clear_all": "Clear all"
+    },
+    "setting_mining": {
+      "mining": "Mining",
+      "wallet_address_to_receive_award": "Wallet address to receive award ",
+      "total_reward": "Total reward",
+      "reward_per_hour": "Reward per hour",
+      "latest_transactions": "Latest transactions",
+      "view_all": "View all",
+      "wallet": "Wallet",
+      "content_wallet": "Change wallet receiving reward",
+      "node": "Node",
+      "content_node": "Choose or custom node",
+      "process": "Process",
+      "content_process": "Transaction & Smart contract",
+      "config": "Config",
+      "content_config": "Data and Storage",
+      "passcode": "Passcode",
+      "enter_passcode": "Enter Passcode",
+      "to": "To",
+      "from": "From"
+    },
+    "process": {
+      "process": "Process",
+      "hand_input": "Hand INPUT",
+      "do_you_want_to_make_interactive": "do you want to make interactive?",
+      "transaction": "Transaction",
+      "smart_contract": "Smart Contract",
+      "interaction": "Interaction",
+      "no_interaction": "No Interaction",
+      "at_least_one_option_must_be_selected": "At least one option must be selected"
+    },
+    "config": {
+      "config": "Config",
+      "storage_usage": {
+        "storage_usage": "Storage Usage",
+        "keep_files": "Keep files",
+        "keep_pending_files": "Keep pending files",
+        "content_1": "Files that you have not accessed during this period will be removed from this device to save disk space",
+        "content_2": "Pending files during this period will be removed from this device to save disk space"
+      },
+      "network_usage": "Network Usage",
+      "background_download": "Background Download",
+      "content_bottom": "The app will continue downloading file for a limited time"
+    },
+    "transaction_details": {
+      "transaction_details": "Transaction details",
+      "coin_sending": "Coin sending",
+      "transaction_hash": "Transaction hash",
+      "status": "Status",
+      "number_of_confirmations": "Number of confirmations",
+      "source": "Source",
+      "victoria": "Victoria",
+      "wallet_address": "Wallet address",
+      "amount_of_coin": "Amount of coin",
+      "fee": "Fee",
+      "tips": "Tips",
+      "receiver": "Receiver",
+      "message": "Message",
+      "message_payment": "Payment notice: Make a payment",
+      "transaction": "Transaction",
+      "timestamp": "Timestamp",
+      "wallet": "Wallet",
+      "username": "Username"
+    },
+    "view_all_page": {
+      "all_transactions": "All transactions",
+      "all": "all",
+      "today": "today",
+      "this_week": "this week",
+      "this_month": "this month"
+    },
+    "custom_card_wallet": {
+      "give_your_wallet_a": "Give Your Wallet a",
+      "new_look": "New Look",
+      "choose_a_card_according_to_your_preference": "Choose a card according to your preference",
+      "edit_wallet": "Edit Wallet",
+      "color": "Color",
+      "to_the_moon": "To the moon",
+      "holographic": "Holographic",
+      "liquid": "Liquid",
+      "astronaut": "Astronaut",
+      "choose_pattern": "Choose Pattern",
+      "choose_symbol": "Choose Symbol",
+      "choose_text_color": "Choose Text Color"
+    }
+  },
+  "button": {
+    "next": "Next",
+    "skip": "Skip",
+    "import_an_existing_wallet": "Import an existing wallet",
+    "create_a_new_wallet": "Create a new wallet",
+    "import": "Import",
+    "decrypt": "Decrypt",
+    "close": "Close",
+    "detail": "Detail",
+    "report": "Report",
+    "scan": "Scan QR",
+    "receive": "Receive",
+    "send": "Send",
+    "yes_i_understand": "Yes, I understand",
+    "connect": "Connect",
+    "connect_again": "Connect again",
+    "offline_mode": "Offline mode",
+    "no": "NO",
+    "yes": "Yes",
+    "create": "create",
+    "create_group": "Create Group",
+    "add_to_group": "add to group",
+    "rename": "Rename",
+    "move": "Move",
+    "delete": "Delete",
+    "back": "Back",
+    "cancel": "cancel",
+    "set_default": "set default",
+    "done": "Done",
+    "customize": "Customize",
+    "scan_qr_to_send": "scan qr to send",
+    "approve": "Approve",
+    "home": "Home",
+    "save": "Save",
+    "create_backup": "Create Backup",
+    "continue": "continue",
+    "confirm": "confirm"
+  },
+  "notification": {
+    "import_fail": "Import fail",
+    "please_input_seed_phrase": "Please input seed phrase",
+    "import_success": "Import Success",
+    "your_file_import_success_Click_close_to_apply_new_data": "Your file import success. Click close to apply new data",
+    "error": "Error",
+    "copy_success": "Copy Success",
+    "success": "Success",
+    "pending": "Pending",
+    "denied": "Denied"
+  }
+}
